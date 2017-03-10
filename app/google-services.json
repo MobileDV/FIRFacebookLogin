@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "857101879284",
+    "firebase_url": "https://myfire-7caee.firebaseio.com",
+    "project_id": "myfire-7caee",
+    "storage_bucket": "myfire-7caee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857101879284:android:9516d75f916d7a09",
+        "android_client_info": {
+          "package_name": "com.example.administrator.firebaselogsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857101879284-e2pj5p2il3vgm1fm3aobgpledrc3cnr9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvM4YxY0WIA8vD-UiZpnNxIdRRJUNKpMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
